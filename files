@@ -1,0 +1,8 @@
+/*
+var user = os.userInfo();
+
+fs.appendFile('greetings.txt', `hello ${user.username} you are ${notes.age}`, function (error) {
+    if(error)
+        console.log('unable to write to file');
+});
+*/
